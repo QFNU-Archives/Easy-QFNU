@@ -100,6 +100,10 @@
     }
 </style> -->
 
+
+<!-- Waline CSS -->
+<link rel="stylesheet" href="https://unpkg.com/@waline/client@v3/dist/waline.css" />
+
     
       
     
@@ -2809,7 +2813,7 @@ Easy-QFNU站点正在重做中，如有浏览需要，请移步至原页面：<a
 
 
 
-<div id="mkdocs-encrypted-content" style="display:none">bimTELTauHy0+/PPjzZjHA==;CSokJ78cof1n2+Fz53pnzcAYi0Hxbz2O80krWLANwkie8SewmMvvE0EoZO/S4y9EeD9oYb3A9tdFjAeeBo67Urz72fitVMwLb6yQCDmEWXZH2CF+COK8OhvEct+ml7/IzGjTy0ddcFKL9Y1sDf0ZGg==</div>
+<div id="mkdocs-encrypted-content" style="display:none">Qromjkcx2cYzNV5TcGRTUA==;AQbu9E1QyApfKr1m2gaTx1cCDZmpPWFNL8EhdG5nMJlrqn5tEWPrW3wqxaD9WEzcfdCR3P4QQMib6CJA/PxBx1xsTsD/lc0yVFYhutEHpej7A7qmPCNlQIMl2hkpFlmKtJ+R5GcSURMH5BvlrIRZnw==</div>
 <div id="mkdocs-decrypted-content">
     <form id="mkdocs-decrypt-form" class="md-content__inner md-typeset">
         <h1>加密测试</h1>
@@ -2824,7 +2828,7 @@ Easy-QFNU站点正在重做中，如有浏览需要，请移步至原页面：<a
 var encryptcontent_id = "encryptcontent_1";
 var encryptcontent_path = "encrypt-test/";
 var decryption_failure_message = "\u5bc6\u7801\u9519\u8bef";
-var encryptcontent_keystore = ["wRxc9xcA44tMF5D9WnS+SQ==;zAfP0W2YaDFKusL8G1KEG+mjxQRzzJGilglUx7VqGVt/6/49en5Vmgvqk9uLuoAcvSb8CZw4YAutI8MqDEoxoBjguM5aurqBj4djaQwud2oqfVLTfct9KFSoWSJa1FNP;Dv0G6cewMz+GuE49UP1z5w=="];
+var encryptcontent_keystore = ["4vY69mawetlU5AHcoItWUA==;SqZIb2ZIl/LYFBQpeqRo1gyJQuOaYyhT/SSJrDcan28dIGBkq/2KYjS9tVGYUI4GnC/0fph/g+kGXoHFJamsAN7A33JBi/0YVtCERXSsgaryVfAAzNlN/0jV/093WOR4;VImMbr+83C5EtukWmtKt8g=="];
 var encryptcontent_obfuscate = 0;
 
 </script>
@@ -2957,17 +2961,20 @@ var encryptcontent_obfuscate = 0;
 <!-- 评论功能的核心文件 -->
 
 <h2 id="__comments">评论</h2>
-<!-- Insert generated snippet here -->
+<!-- 插入评论插件 -->
 
 <p style="text-align: center;">PS: 如果评论排版显示错误，请使用科学上网加速，或强制刷新页面</p>
 
+
+<!-- giscus评论插件 -->
 <script src="https://giscus.app/client.js" data-repo="W1ndys/Easy-QFNU" data-repo-id="R_kgDOLOtv9Q"
   data-category="Show and tell" data-category-id="DIC_kwDOLOtv9c4Cd0Rh" data-mapping="URL" data-strict="1"
   data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="preferred_color_scheme"
   data-lang="zh-CN" crossorigin="anonymous" async>
   </script>
 
-<!-- Synchronize Giscus theme with palette -->
+
+<!-- Giscus评论  -->
 <script>
   var giscus = document.querySelector("script[src*=giscus]")
 
@@ -3002,6 +3009,15 @@ var encryptcontent_obfuscate = 0;
     })
   })
 </script>
+<!-- <div id="waline"></div>
+<script type="module">
+  import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+  init({
+    el: '#waline',
+    serverURL: 'https://comments.easy-qfnu.top',
+  });
+</script> -->
 
                 
 <!-- Sakana Widget -->
