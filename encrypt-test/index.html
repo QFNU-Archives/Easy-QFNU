@@ -159,7 +159,11 @@
     html.glightbox-open { overflow: initial; height: 100%; }
     .gslide-title { margin-top: 0px; user-select: text; }
     .gslide-desc { color: #666; user-select: text; }
-    .gslide-image img { background: white; }
+    .gslide-image img { background: none; }
+    .glightbox-clean .gslide-media {
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }
     .gscrollbar-fixer { padding-right: 15px; }
     .gdesc-inner { font-size: 0.75rem; }
     body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
@@ -218,7 +222,7 @@
   <nav class="md-header__inner md-grid" aria-label="页眉">
     <a href="/" title="Easy-QFNU" class="md-header__button md-logo" aria-label="Easy-QFNU" data-md-component="logo">
       
-  <img src="../assets/logo/favico.png" alt="logo">
+  <img src="../assets/logo/favicon.ico" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -515,7 +519,7 @@
   <label class="md-nav__title" for="__drawer">
     <a href="/" title="Easy-QFNU" class="md-nav__button md-logo" aria-label="Easy-QFNU" data-md-component="logo">
       
-  <img src="../assets/logo/favico.png" alt="logo">
+  <img src="../assets/logo/favicon.ico" alt="logo">
 
     </a>
     Easy-QFNU
@@ -3587,7 +3591,7 @@
 
 
 
-<div id="mkdocs-encrypted-content" style="display:none">29kJXJa1AYrgapJdkD9UDQ==;Vxx4eGjo12mF6flHj/0vtzR2XtGufULqxxU8g4rJ92LnxtMDU/QUh8bzaLFkmjPkPqqp/1F8N0RmioC0VC+zJbs+7fJYEWARrplhiO1UQw7VCkWyuYOqGEfeD2Q89RrtLGlVoEpELdSxY+m09kTzlA==</div>
+<div id="mkdocs-encrypted-content" style="display:none">lu0geaZtZueQomFOFQyv1A==;FVj/Xwp0y8L4kCmkirp3kfqWyAm26S56RKIcPsnDOyrrbjR1bn4anpSUDduS1EZhUePbYpZRuBZHuE/AxP4vqdSoGgKFz80P4qoEjOz/97bhVHZFhCWhVVhDp16bQeSfqB3m1PPwKdyQfENPdg/8Kw==</div>
 <div id="mkdocs-decrypted-content">
     <form id="mkdocs-decrypt-form" class="md-content__inner md-typeset">
         <h1>加密测试</h1>
@@ -3602,7 +3606,7 @@
 var encryptcontent_id = "encryptcontent_1";
 var encryptcontent_path = "encrypt-test/";
 var decryption_failure_message = "\u5bc6\u7801\u9519\u8bef";
-var encryptcontent_keystore = ["hlVfAooqXBWSGVAFClwp7A==;plpMIxZa3mn+lYpTxU397o5tgQPq8GN+A9TeieaeAjYbagKoQp74q22JtAsyyLrl3MO/Ne2EKnk0/n/6BnFIu5ty21FB+EbVaBmydlOTNCvmKXsRSgW3GZ/38e97CICJ;J1PVUBkkBgXT5pTY9GFzfw=="];
+var encryptcontent_keystore = ["53L2VHpwgESKhm2X5kJquQ==;netlV4OuvWLXVto/odf6N7k8YAsnybM2GZjP8nXmwwdoTCGJqBYjyGM4j5nAwSrgXjfKEiJGi3W4Kp0uaVOCYAR5qe4cfzMtSIIeEDoaoK0PDt2s2qffilbwVZKtaDZr;RkrewfNi36PB0Q3MGlWsvw=="];
 var encryptcontent_obfuscate = 0;
 
 </script>
@@ -4070,7 +4074,7 @@ var encryptcontent_obfuscate = 0;
         console.log('Error:', error);
     }
 });
-const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+const lightbox = GLightbox({"touchNavigation": false, "loop": false, "zoomable": true, "draggable": true, "openEffect": "fade", "closeEffect": "fade", "slideEffect": "slide"});
 document$.subscribe(() => { lightbox.reload() });
 </script></body>
 </html>
