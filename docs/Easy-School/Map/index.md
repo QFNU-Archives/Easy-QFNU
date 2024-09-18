@@ -20,6 +20,8 @@ icon: material/map
 
 ### 老校区地图
 
+> 注意：页面顶部有网盘链接，高清图片
+
 <p>
     <img src="https://pic1.zhimg.com/80/v2-4b994531c2f64c78f8ad2ee15c3bea94_720w.webp" alt="老校区地图" style="width:40%;"/>
     <img src="https://pica.zhimg.com/80/v2-d35e32e1bafc20b5b3b7dcc9ebdd6012_720w.webp" alt="老校区地图" style="width:40%;"/>
@@ -28,6 +30,7 @@ icon: material/map
 #### 综合楼卫生间地图
 
 > 致谢：本图由 飞天富贵鼠鼠 提供
+> 注意：页面顶部有网盘链接，高清图片
 
 <img src="https://picx.zhimg.com/80/v2-3beab9b26702d1d272c70dd12af99149_720w.webp" alt="综合楼卫生间地图" style="width:30%;" />
 
@@ -55,12 +58,14 @@ icon: material/map
 #### 格物楼局部地图
 
 > 致谢：本图由 计算机爱好者协会 提供
+> 注意：页面顶部有网盘链接，高清图片
 
 <img src="https://picx.zhimg.com/80/v2-890b95a2d380227462672aff22b8136b_720w.webp" alt="格物楼局部地图" style="width:30%;" />
 
 #### 文渊楼地图
 
 > 致谢：本图由 晓镜 提供
+> 注意：页面顶部有网盘链接，高清图片
 
 <p>
     <img src="Library/New/3L.png" style="width:30%;">
@@ -71,6 +76,7 @@ icon: material/map
 ### 综合地图
 
 > 本图由 `希望数分别再折磨我了` 、`曲师大移动营业厅` 提供
+> 注意：页面顶部有网盘链接，高清图片
 
 <p>
     <img src="https://pic3.zhimg.com/80/v2-d0075aa6dbb48c5486346b12b6851cb0_720w.webp" alt="老校区地图, 希望数分别再折磨我了供图" style="width:40%;" />
@@ -80,6 +86,7 @@ icon: material/map
 ## 日照校区地图
 
 > 致谢：本图由 颜珞 提供
+> 注意：页面顶部有网盘链接，高清图片
 
 <img src="https://picx.zhimg.com/80/v2-93a5aad41f90f91d7790792a2a1cd44b_720w.webp" alt="日照校区地图" style="width:40%;" />
 
