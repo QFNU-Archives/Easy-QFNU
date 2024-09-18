@@ -12,8 +12,11 @@ icon: material/map
 !!! warning "网盘地址"
 
     地图原图下载地址
+
     链接：[网盘地址](https://www.123pan.com/s/mJtkjv-AhA0v)
+
     提取码：ezqf
+
     选用了123网盘，不限速，且无需客户端，无需登录，直接下载。
 
 ## 曲阜校区地图
@@ -30,6 +33,7 @@ icon: material/map
 #### 综合楼卫生间地图
 
 > 致谢：本图由 飞天富贵鼠鼠 提供
+>
 > 注意：页面顶部有网盘链接，高清图片
 
 <img src="https://picx.zhimg.com/80/v2-3beab9b26702d1d272c70dd12af99149_720w.webp" alt="综合楼卫生间地图" style="width:30%;" />
@@ -58,6 +62,7 @@ icon: material/map
 #### 格物楼局部地图
 
 > 致谢：本图由 计算机爱好者协会 提供
+>
 > 注意：页面顶部有网盘链接，高清图片
 
 <img src="https://picx.zhimg.com/80/v2-890b95a2d380227462672aff22b8136b_720w.webp" alt="格物楼局部地图" style="width:30%;" />
@@ -65,6 +70,7 @@ icon: material/map
 #### 文渊楼地图
 
 > 致谢：本图由 晓镜 提供
+>
 > 注意：页面顶部有网盘链接，高清图片
 
 <p>
@@ -86,6 +92,7 @@ icon: material/map
 ## 日照校区地图
 
 > 致谢：本图由 颜珞 提供
+>
 > 注意：页面顶部有网盘链接，高清图片
 
 <img src="https://picx.zhimg.com/80/v2-93a5aad41f90f91d7790792a2a1cd44b_720w.webp" alt="日照校区地图" style="width:40%;" />
