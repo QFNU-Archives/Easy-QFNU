@@ -9,7 +9,12 @@ icon: material/map
 
 > 曲阜校区飞天富贵鼠鼠, W1ndys, 希望数分别在折磨我了供图, 日照校区颜珞供图, 新校区图书馆地图晓镜供图, 格物楼地图带标记计算机爱好者协会供图
 
-> 图片加载较慢, 若超过 10 秒未加载请刷新页面
+!!! warning "网盘地址"
+
+    地图原图下载地址
+    链接：[网盘地址](https://www.123pan.com/s/mJtkjv-AhA0v)
+    提取码：ezqf
+    选用了123网盘，不限速，且无需客户端，无需登录，直接下载。
 
 ## 曲阜校区地图
 
@@ -19,7 +24,6 @@ icon: material/map
     <img src="https://pic1.zhimg.com/80/v2-4b994531c2f64c78f8ad2ee15c3bea94_720w.webp" alt="老校区地图" style="width:40%;"/>
     <img src="https://pica.zhimg.com/80/v2-d35e32e1bafc20b5b3b7dcc9ebdd6012_720w.webp" alt="老校区地图" style="width:40%;"/>
 </p>
-
 
 #### 综合楼卫生间地图
 
@@ -32,22 +36,21 @@ icon: material/map
 ??? note "新校区地图超清"
 
     链接：[新校区地图超清——百度网盘](https://pan.baidu.com/s/1tn7qNd4PzjdZmqY6HpWdNw?pwd=1rz8)
-    
+
     提取码：1rz8
-    
+
     HASH 校验
-    
+
     SHA256: **11f128423a5490ae1db3f501f186b320f7affec2d808bec8223526ff0b184440**
-    
+
     MD5: **9aac1ce4978344497fa763d3d895069c**
-    
+
     SHA1: **830146c6b32632cab9f5206755856f63700ae4ab**
 
 <p>
     <img src="https://picx.zhimg.com/80/v2-af7ba86f2bc5adddcf96f36e840fecdb_720w.webp" alt="新校区地图" style="width:33%;" />
     <img src="https://pic1.zhimg.com/80/v2-0333c99393fb5d91476c25b9a1a28764_720w.webp" alt="新校区地图" style="width:40%;" />
 </p>
-
 
 #### 格物楼局部地图
 
@@ -71,9 +74,8 @@ icon: material/map
 
 <p>
     <img src="https://pic3.zhimg.com/80/v2-d0075aa6dbb48c5486346b12b6851cb0_720w.webp" alt="老校区地图, 希望数分别再折磨我了供图" style="width:40%;" />
-    <img src="https://pic3.zhimg.com/80/v2-c16fcd30090fca6a001e499e39d8c1e0_720w.webp" alt="综合地图" style="width:40%;" />
+    <img src="https://pic2.zhimg.com/80/v2-bf86b30c23f8398b650c61e022878cc7_720w.webp" alt="综合地图" style="width:40%;" />
 </p>
-
 
 ## 日照校区地图
 
