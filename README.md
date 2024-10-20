@@ -30,6 +30,11 @@
 | CloudFlare | <https://c.Easy-QFNU.top> | ❌ 停更   |
 | Render     | <https://r.Easy-QFNU.top> | ❌ 停运   |
 
+## 附属项目
+
+[曲阜师范大学地图知识库](https://github.com/W1ndys/Easy-QFNU/tree/main/QFNU-Knowledgebase)
+
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=W1ndys/Easy-QFNU&type=Date)](https://star-history.com/#W1ndys/Easy-QFNU&Date)
