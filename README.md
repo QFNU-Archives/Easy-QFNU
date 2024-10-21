@@ -32,7 +32,7 @@
 
 ## 附属项目
 
-[曲阜师范大学地图知识库](https://github.com/W1ndys/Easy-QFNU/tree/main/QFNU-Knowledgebase)
+[曲阜师范大学地图知识库](https://github.com/W1ndys/Easy-QFNU/QFNU-Knowledgebase/Map.txt)
 
 
 ## Star History
